@@ -32,7 +32,7 @@ GameStore/
 ## 執行環境需求
 
 - Python **3.9 以上**
-- Windows / Linux / macOS
+- Windows
 - 僅使用 Python 標準函式庫，無需額外套件
 
 ---

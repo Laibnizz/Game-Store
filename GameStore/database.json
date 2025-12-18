@@ -1,0 +1,50 @@
+{
+    "games": [
+        {
+            "name": "rps3",
+            "dev": "a",
+            "description": "rps3",
+            "filename": "rps3__a__v1.0.py",
+            "version": "1.0",
+            "game_type": "GUI",
+            "max_players": 3,
+            "downloaded_by": [
+                "a",
+                "b",
+                "c"
+            ],
+            "comments": []
+        }
+    ],
+    "users": [
+        {
+            "username": "a",
+            "password": "a",
+            "role": "developer",
+            "play_history": [
+                "rps3"
+            ]
+        },
+        {
+            "username": "a",
+            "password": "a",
+            "role": "player"
+        },
+        {
+            "username": "b",
+            "password": "b",
+            "role": "player",
+            "play_history": [
+                "rps3"
+            ]
+        },
+        {
+            "username": "c",
+            "password": "c",
+            "role": "player",
+            "play_history": [
+                "rps3"
+            ]
+        }
+    ]
+}
